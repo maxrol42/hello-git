@@ -5,4 +5,5 @@ Hello git
 <img width="797" height="321" alt="Logo_DSP" src="https://github.com/user-attachments/assets/976520fa-c7d3-463b-965b-683b818f49fc" />
 
 <img width="575" height="568" alt="Screenshot 2025-08-14 172341" src="https://github.com/user-attachments/assets/6c6dab89-7770-4f30-9b68-0c17ba91144a" />
-![Logo ZAD ](https://github.com/user-attachments/assets/732fc782-78f9-4673-b49d-4aaffd3cf797)
+
+![Logo ZAD ](https://github.com/user-attachments/assets/5cde434c-7520-47aa-9153-a7f806bde2d7)
